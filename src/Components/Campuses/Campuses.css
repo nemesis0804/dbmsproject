@@ -1,0 +1,29 @@
+
+.campus-container{
+    margin: 0;
+    background-color: lightgrey;
+    height: auto;
+    border-radius: 10px;
+}
+
+.banner{
+    justify-content: center;
+}
+
+.banner img{
+    border-radius: 10px;
+}
+
+.banner h1{
+    font-weight: 800;
+    font-size: 3rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.banner hr{
+    width: 50%;
+    height: 2px;
+    color: aqua;
+    justify-content: center;
+}
+
